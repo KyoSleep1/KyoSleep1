@@ -3,12 +3,11 @@
 
 ## I'm a Self-Taught Programmer
 
-- 🌱 I’m currently learning about almost everything related with Computer Graphics, Web Development, Machine Learning, and some Personal Development
-- 👯 I’m looking to collaborate with other people to create tools that can help the society in the future
-- 😄 Pronouns: Any pronoun
-- 🥅 2022 Goals: Help other people, Stop procrastinating, and avoid bad feelings!
-- ⚡ Fun fact: I feel very curious about the humand mind, so I'm planning to study psychology as a second career (Nothing related with Technology lol)
-- ⚡ Fun fact 2: I love art but I don't know how to draw 🤡
+- 🌱 I’m currently learning about almost everything related with Computer Graphics, Web Development, Machine Learning, and Modding in general.
+- 👯 I’m looking to collaborate with other people to create tools that can help the society in the future.
+- 😄 Pronouns: She/Her.
+- 🥅 2023 Goals: Survive.
+- ⚡ Fun fact: I feel very curious about the humand mind, so I'm planning to study psychology as a second career.
 
 ### Languages and Tools:
 
