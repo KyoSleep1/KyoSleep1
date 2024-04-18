@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about almost everything related with Computer Graphics, Web Development, Machine Learning, and Minecraft Modding.
 - 👯 I’m currently working at @EufoniaStudios 
-- 🥅 2023 Goals: Survive.
+- 🥅 2024 Goals: I sucessfully completed my 2023 goal. My next goal is to be happy and healthy this year :)
 - ⚡ Fun fact: I feel very curious about the humand mind, so I'm planning to study psychology as a second career.
 
 ### Languages and Tools:
