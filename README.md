@@ -6,15 +6,11 @@ I build systems for games and multiplayer environments.
 
 Most of my work is around Minecraft and Hytale, especially backend logic, cross-server communication, and features that run across multiple servers.
 
----
-
 ## 🚀 What I usually work on
 
 - Multiplayer systems and backend logic  
 - Cross-server communication and sync  
 - Mods and features for active communities  
-
----
 
 ## 🛠️ Stack
 
@@ -26,21 +22,15 @@ Most of my work is around Minecraft and Hytale, especially backend logic, cross-
 
 <br />
 
----
-
 ## 💼 Current
 
 Working on LynnWorks, building software and systems for creators  
-
----
 
 ## 🎯 2026
 
 Grow LynnWorks  
 Keep building things that reach people  
 Work with others who care about what they do  
-
----
 
 ## ⚡ A bit about me
 
