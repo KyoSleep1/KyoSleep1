@@ -1,36 +1,36 @@
-## Software Architect focused on game systems
+## ⚙️ Software Architect focused on game systems
 
 I build systems for games and multiplayer environments.
 
-Most of my work is around Minecraft and Hytale, especially backend logic, cross-server communication, and features that run across multiple servers.
+Most of my work is around Minecraft and Hytale, where I focus on backend logic, cross-server communication, and features that need to work reliably across multiple servers.
 
-## ⚡ A bit about me
+I enjoy working on problems that only appear at scale, where systems need to stay consistent, fast, and predictable.
 
-I like understanding how things work, both systems and people  
-You've probably used a mod I made, or watched a series I worked on with your favorite streamer or YouTuber
+## 👤 A bit about me
 
-## 🚀 What I usually work on
+I’m a curious, focused, and ambitious person. I like understanding how things work, both systems and people.
+
+*There’s a good chance you’ve used a mod I made or watched a series I worked on with your favorite streamer or YouTuber.*
+
+## 🧩 What I work on
 
 - Multiplayer systems and backend logic  
-- Cross-server communication and sync  
-- Mods and features for active communities  
+- Cross-server communication and synchronization  
+- Game features used by active communities  
+- Systems that need to work under real load  
 
 ## 🛠️ Stack
 
-<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="IntelliJ" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-<img align="left" alt="VSCode" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+Java, C, C++  
+IntelliJ IDEA, VSCode  
 
-<br />
+## 🚀 Current
 
-## 💼 Current
-
-Working on LynnWorks, building software and systems for creators  
+I’m building LynnWorks, focused on software development, consulting, and systems for creators.
+At the same time, I work on freelance projects related to games and online communities.
 
 ## 🎯 2026
 
-Grow LynnWorks  
-Keep building things that reach people  
-Work with others who care about what they do  
+- Grow LynnWorks into something solid  
+- Work on systems that reach millions of players  
+- Keep building alongside people who care about what they do  
