@@ -1,5 +1,3 @@
-# Kyo 👋
-
 ## Software Architect focused on game systems
 
 I build systems for games and multiplayer environments.
