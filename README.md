@@ -26,11 +26,11 @@ IntelliJ IDEA, VSCode
 
 ## 🚀 Current
 
-I’m building LynnWorks, focused on software development, consulting, and systems for creators.
+I’m building Lynnaris, focused on software development and game development.
 At the same time, I work on freelance projects related to games and online communities.
 
 ## 🎯 2026
 
-- Grow LynnWorks into something solid  
+- Grow Lynnaris into something solid  
 - Work on systems that reach millions of players  
 - Keep building alongside people who care about what they do  
